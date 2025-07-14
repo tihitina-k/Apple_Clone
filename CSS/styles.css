@@ -99,6 +99,35 @@ img {
 }
 
 
+/* servant airpod section */
+.servant {
+  background-image: url("../images/home/apple-tv-background.jpg");
+  padding-top: 20px;
+}
+.servant-logo {
+  padding-block: 140px;
+}
+.video p {
+  padding-block: 30px;
+}
+/* insert video icon */
+.video a:after {
+  font-family: "FontAwesome";
+  font-size: 20px;
+  content: "\f144";
+  color: blue;
+  margin-right: 20px;
+  padding: 10px;
+}
+/* airpod section */
+.airpod {
+  background-image: url("../images/home/air-pods.jpg");
+  background-size: initial;
+  background-color: black;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
 
 /* Footer Styling */
 .footer-wrapper {
