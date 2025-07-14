@@ -99,6 +99,19 @@ img {
 }
 
 
+.side-container {
+  height: 580px;
+  background-position: center;
+}
+.watch-card-left {
+  background-image: url(../image/home/watch-series-5.jpg);
+}
+.watch-card-right {
+  background-image: url(../image/home/apple-card.jpg);
+}
+
+
+
 /* servant airpod section */
 .servant {
   background-image: url("../images/home/apple-tv-background.jpg");
@@ -237,16 +250,7 @@ img {
   }
 }
 
-.side-container {
-  height: 580px;
-  background-position: center;
-}
-.watch-card-left {
-  background-image: url(../image/home/watch-series-5.jpg);
-}
-.watch-card-right {
-  background-image: url(../image/home/apple-card.jpg);
-}
+
 
 
 
