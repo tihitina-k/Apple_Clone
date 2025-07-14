@@ -77,6 +77,28 @@ img {
   background-size: cover;
 }
 
+/* section three style */
+.sectionthree {
+  background-image: url(../Images/home/iphone11-bg.jpg);
+   height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25px;
+}
+.All-links li a:hover {
+  color: black;
+  opacity: 1;
+}
+
+.All-links ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}
+
+
 
 /* Footer Styling */
 .footer-wrapper {
@@ -196,6 +218,7 @@ img {
 .watch-card-right {
   background-image: url(../image/home/apple-card.jpg);
 }
+
 
 
 
