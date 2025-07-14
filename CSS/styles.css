@@ -1,5 +1,4 @@
 
-
 /* General Styling*/
 body {
   font-family: "Montserrat", sans-serif;
@@ -72,6 +71,11 @@ img {
   height: 580px;
 }
 
+/* iphone 11 pro section */
+.iphone11-pro {
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+  background-size: cover;
+}
 
 
 /* Footer Styling */
@@ -192,5 +196,6 @@ img {
 .watch-card-right {
   background-image: url(../image/home/apple-card.jpg);
 }
+
 
 
