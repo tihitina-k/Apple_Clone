@@ -98,16 +98,22 @@ img {
   padding-left: 10px;
 }
 
-
-.side-container {
-  height: 580px;
+/* Fourth section style */
+.first-fourth-container,
+.second-fourth-container {
   background-position: center;
+  height: 36.25rem;
+  background-repeat: no-repeat;
 }
-.watch-card-left {
-  background-image: url(../image/home/watch-series-5.jpg);
+.fourth-description {
+  max-width: 430px;
+  font-size: 1.2rem;
 }
-.watch-card-right {
-  background-image: url(../image/home/apple-card.jpg);
+.first-fourth-container {
+  background-image: url(../Images/home/watch-series-5.jpg);
+}
+.second-fourth-container {
+  background-image: url(../Images/home/apple-card.jpg);
 }
 
 
